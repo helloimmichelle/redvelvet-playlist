@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2em;
+
+  }
+
+  img {
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  audio {
+    align-content: center;
+    padding-top: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    cursor: pointer;
+    padding: 5px;
+    margin: 2px;
+    background-color: #eee;
+  }
+  
+  li:hover {
+    background-color: #ccc;
+  }
+  
